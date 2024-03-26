@@ -1,4 +1,4 @@
-import {SideBar} from "@/app/components";
+import {SideBar} from "@/components";
 
 
 export default function DashboardLayout({ children }: { children: React.ReactNode; }) {
